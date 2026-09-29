@@ -1,0 +1,6 @@
+{
+  "name": "StreamM3U - Web IPTV & Live M3U8 Player",
+  "description": "Modern web-based IPTV & M3U8 live stream player with EPG electronic program guide, channel categorization, and iptv-org integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
